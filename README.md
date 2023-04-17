@@ -22,3 +22,7 @@
 
 <img align-itens='center' alt='mongoDb' src='https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white'/>
 </div>
+
+<br/>
+
+### Aprendendo, evoluindo e me desafiando a cada dia nesse mundo incrível da tecnologia.
